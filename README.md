@@ -2,6 +2,10 @@
 전신마비 환자를 위한 눈동자 인식 전동침대 제작(SW+HW)
 
 
+![하체_5초부터up_12초down_총17초](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/6ee81566-6041-44a5-ad6b-8586aee5110a)
+<br>
+![프레젠테이션1](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/6d20610d-de10-4af7-b64e-ce0962f03ea6)
+
 
 
 ![슬라이드1](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/5764fa43-09de-4739-afd1-88c820a13c2e)
