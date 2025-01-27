@@ -4,14 +4,16 @@
 - 제작인원 : 6명
 - 제작기간 : 2022.09.19 ~ 2022.12.20 (15주)
 - 시현영상 : <br>
-침대 상•하부가 움직여 욕창을 방지합니다 <br>
+눈동자의 위치를 인식하여 신호를 전송합니다 <br>
+
+![프레젠테이션1](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/6d20610d-de10-4af7-b64e-ce0962f03ea6)
+
+입력 받은 신호에 따라 침대의 상•하부가 움직입니다 <br>
 ![하체_5초부터up_12초down_총17초](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/6ee81566-6041-44a5-ad6b-8586aee5110a)
 
 <br>
 
-눈동자의 위치를 인식합니다
 
-![프레젠테이션1](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/6d20610d-de10-4af7-b64e-ce0962f03ea6)
 
 <br>
 - 발표 PPT : <br>
