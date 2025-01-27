@@ -1,7 +1,8 @@
-
-전신마비 환자를 위한 눈동자 인식 전동침대 제작(SW+HW)
-
-"The bed's motion changes based on the movement of the eyes."
+<전신마비 환자를 위한 눈동자 인식 전동침대(SW+HW)> <br>
+- 
+- 기대효과: 환자의 눈동자 위치에 따라 침대 상•하부를 움직여서 욕창을 방지합니다.
+- 제작인원 : 6명
+- 제작기간 : 2022.09.19 ~ 2022.12.16 (14주)
 <br>
 <br>
 ![하체_5초부터up_12초down_총17초](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/6ee81566-6041-44a5-ad6b-8586aee5110a)
