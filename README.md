@@ -32,11 +32,7 @@
 
 
 
-![슬라이드10](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/b689ba45-e663-47d9-8b79-c46a817b5d5c)
 
-
-
-![슬라이드21](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/137e21e5-79b2-4c5d-bf25-ac54e57d150c)
 
 
 
