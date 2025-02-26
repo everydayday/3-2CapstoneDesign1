@@ -36,7 +36,6 @@
 
 
 
-![슬라이드25](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/8035ed23-7424-4680-a518-3a0246ad4d92)!
 ![슬라이드26](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/270ff28a-fa29-46e2-9277-61c28d0602ff)
 ![슬라이드27](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/017f64c0-3dcb-44ad-af91-08fb295a6ea0)
 ![슬라이드28](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/9c2ccd5a-f720-47e0-90ba-63015010b9d8)
