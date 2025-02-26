@@ -5,6 +5,11 @@
 - 제작기간 : 2022.09.19 ~ 2022.12.20 (15주)
 - 시현영상 : <br>
 눈동자의 위치를 인식하여 신호를 전송합니다 <br>
+- 레퍼런스 : https://medium.com/@aiphile <br>
+- 개선사항 : <br>
+1) 눈동자 위치 따른 아두이노 통신 코드 추가 <br>
+2) 3초 이내 세 번 눈 깜빡일 시, emergency mode 알고리즘 추가 <br>
+
 
 ![프레젠테이션1](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/6d20610d-de10-4af7-b64e-ce0962f03ea6)
 
