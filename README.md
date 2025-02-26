@@ -25,28 +25,21 @@
 
 ![슬라이드1](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/5764fa43-09de-4739-afd1-88c820a13c2e)
 
-![슬라이드2](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/f65ea3a2-4f6f-45d4-8c0c-629972857447)
-![슬라이드3](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/903cfaa3-a43d-4fb8-b14a-d7c5558ea6cc)
+
 
 
 ![슬라이드4](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/b3dbe34f-a3b9-4546-b7ad-dac727779da7)
-![슬라이드5](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/d8f18fd4-9ecc-4383-b124-6df6e20cd6c3)
+
 
 
 ![슬라이드10](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/b689ba45-e663-47d9-8b79-c46a817b5d5c)
-![슬라이드13](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/820c68f4-8699-46a7-ace9-2ee6e9716e6a)
 
-![슬라이드14](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/c5a063c9-7cb8-4666-9a08-b8e9f48d460d)
-![슬라이드15](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/582ec44d-7cbb-417b-8e56-2cc855cd43fa)
-![슬라이드16](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/0d7c338c-80c1-4e36-b66d-5002c6a980bf)
 
-![슬라이드17](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/12596469-dce1-443a-a556-5235a53f374f)
-![슬라이드19](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/5b697110-e018-4d21-bd40-74e19220f24b)
-![슬라이드20](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/49c0a5ac-ed1c-4b49-bc25-cb63260d0803)
+
 ![슬라이드21](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/137e21e5-79b2-4c5d-bf25-ac54e57d150c)
 
-![슬라이드23](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/759c2b4f-234e-47c3-96d5-ba5f0ab15d94)
-![슬라이드24](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/c9533ca9-18cf-491f-8a12-3c10f8bbef35)
+
+
 ![슬라이드25](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/8035ed23-7424-4680-a518-3a0246ad4d92)!
 ![슬라이드26](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/270ff28a-fa29-46e2-9277-61c28d0602ff)
 ![슬라이드27](https://github.com/everydayday/3-2CapstoneDesign1/assets/96685431/017f64c0-3dcb-44ad-af91-08fb295a6ea0)
